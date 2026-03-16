@@ -1,0 +1,127 @@
+DOCTYPE hta
+
+<htal Lang="en">
+
+chead>
+
+<neta charset="UTF-8">
+
+Practical-
+
+<neta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Scholarship Form</title>
+
+</head
+
+<body
+
+<n >Scholarship Application Fore</h1>
+
+<form action="">
+
+<Finldset>
+
+<legend>Personal Information/Legend>
+
+<br>
+
+<label>Full Namer</label>
+
+<input type="text" placeholder="Enter your name><br><br>
+
+<label>Email:</label>
+
+<input type="email" placeholder="Enter your email ><br><br>
+
+<label>Date of birth:</label>
+
+<input type="date" placeholder="DD/MM/YYYY ><br><br>
+
+<label>Address:</label><br>
+
+<textarea name="address" rows="4" cols="50"></textarea>
+
+<label>Gender:</label><br>
+
+<input type="radio" name="gender" value="Male">Male
+
+<input type="radio" name="gender" value="Female">Female
+
+<input type="radio" name="gender" value="other">Other
+
+</fieldset>
+
+<fieldset>
+
+<legend>Qualification</legend>
+
+<lable Qualification:</lable
+
+<select name="qualidication">
+
+<option>--Select--</option
+
+<option>12th Pass</option>
+
+<option>Diplomas/option>
+
+<option>Undergraduated</option>
+
+<option>Postgraduate</option>
+
+</select>
+
+<br><br>
+
+<lable Percentile:</table>
+
+<input type="number" name="Perecentile"><br><br>
+
+Cource applied for:
+
+<input type="text" name="Cource"><br><br>
+
+</fieldset>
+
+<br>
+
+<fieldset>
+
+<legend>Scholarship Details:</Legend>
+
+<label>Scholarship Type: </label><br>
+
+<input type="checkbox" name="scholarship" value="Merit Based">Merit Based<br>
+
+<
+
+input type="checkbox" name="scholarshia" value="Need Based">Need Based<br>
+
+<input type="checkbox" name="scholarship" value="Sport Quata">Sport Quata<br>
+
+<input type="checkbox" name="scholarship" values "Minority">Minority<br><br>
+
+<label>Anual Fanily income:</label>
+
+<select name="Select intune">
+
+<option>--Select Incone Range--</option>
+
+<option>Below 1 lakh</option>
+
+<option>1 to 4 lakh</option>
+
+<option>More than 4 lakhs</option>
+
+</select>
+
+</fieldset>
+
+<br>
+
+<input type="submit" name="Submit application">
+
+</body>
+
+</html>
