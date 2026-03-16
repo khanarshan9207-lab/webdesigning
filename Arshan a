@@ -1,0 +1,53 @@
+100CTYPE html>
+
+<htal lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.6">
+
+<title>Time Tables/title>
+
+</head>
+
+<body>
+
+<table border="1" cellpadding="10" cellspacing="0" align="center">
+
+<caption><b>Class Time Table</b></caption>
+
+<thead>
+
+<tr><th>Day/Time</th><th>9-18</th><th>18-11</th><th>11-12</th><th>12-1</th><th>1-2</th> </tr>
+
+</thead>
+
+<tbody>
+
+<tr><td>Monday</td><td>Math</td><td>Java</td><td rowspan="6" align="center"><b>RECESS</b>
+
+</td><td>HTML</td><td>DBMS</td></tr>
+
+<tr><td>Tuesday</td><td>Python</td><td>0S</td><td>AI</td><td>Java</td></tr>
+
+<tr><td>Wednesday</td><td>Project</td><td>Math</td><td colspan="2" align="center">Lab</td>
+
+</tr>
+
+<tr><td>Thursday</td><td>HTML</td><td>DBMS</td><td>Python</td><td>0S</td></tr>
+
+<tr><td>Friday</td><td>Java</td><td>AI</td><td>Math</td><td>Project</td></tr>
+
+<tr><td>Saturday</td><td>HTML</td><td>Python</td><td>DBMS</td><td>Sports</td></tr>
+
+</tbody>
+
+<tfoot><tr><td colspan="6" align="center">End of Time Table</td></tr></tfoot>
+
+</table>
+
+</body>
+
+</html>
