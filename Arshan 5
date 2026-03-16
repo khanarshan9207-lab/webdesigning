@@ -1,0 +1,115 @@
+DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport" content="width=device-width, initial-scale-1.0">
+
+<title>Document</title>
+
+</head>
+
+<body>
+
+<header>
+
+<h1>Kyousuke</h1>
+
+<p>Fresher</p>
+
+</header>
+
+<hr>
+
+<nav>
+
+<a href="#about">About</a>
+
+<a href="#skills">Skills</a> href="#education">Education</a>
+
+<a href="contact">Contact</a>
+
+</nav>
+
+<hr>
+
+<section id="about">
+
+<h2>About me</h2>
+
+<img
+
+src-https://avatars, fastly.steamstatic.com/1c0cc58db22592ceb72dcc50d63b3fb722635247_full.jpg>
+
+<p>I am dedicated web developer with knowledge of HTML CSS and JavaScrpit</p>
+
+</section>
+
+<section id="skill">
+
+<h2>Skills</h2>
+
+خانه
+
+<li>PYTHON</li>
+
+<li>CSS</li>
+
+<li>C++</li>
+
+</ul>
+
+</section>
+
+<section id-"education">
+
+<h2>Education</h2>
+
+<table border="1" cellpadding="5" cellspacing="0">
+
+<tr>
+
+<th>Year</th>
+
+<th>Degree</th>
+
+<th>University</th>
+
+<th>CGPA</th>
+
+</tr>
+
+<tr>
+
+</tr>
+
+<td>2026</td>
+
+<td>B.Tech</td>
+
+<td>RTMNU</td>
+
+<td>8.5</td>
+
+</table>
+
+</section>
+
+<section id="Contact"></section>
+
+<h2>Contact</h2>
+
+<p>Email:<a href="nikhil@gmail.com">nikhil@gmail.com</a></p>
+
+<footer>
+
+<p>&copy: 2026 NIKHIL</p>
+
+</footer>
+
+</body>
+
+</html>
